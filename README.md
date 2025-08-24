@@ -10,7 +10,11 @@
 * https://karabiner-elements.pqrs.org
 * https://wezterm.org/
 * https://ohmyz.sh
+* `sudo xcode-select --install`
+  * homebrew 랑 command-line tool 이랑 git 충돌은 없나...?
 
 ### 공부중
+
+익숙해져야 할 거 같은데 아직 잘 모르는 도구들.
 
 * https://github.com/astral-sh/uv
