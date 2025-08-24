@@ -31,4 +31,5 @@ Apple 에서 제공하는 공식 Git 바이너리를 XCode command-line tools �
 * https://github.com/abiosoft/colima
   * 개인용으로는 Orbstack 이 좀더 낫다고 하는데, Orbstack 을 쓸 경우 상업용으로는 라이센스 비용이 발생하는 듯.
 * Rosetta 2
-  * https://www.reddit.com/r/MacOS/comments/rq89is/comment/i2zwy07/ 
+  * https://www.reddit.com/r/MacOS/comments/rq89is/comment/i2zwy07/
+  * iTerm2 같은 Universal App 을 다운받고, Get Info 에서 "Open in Rosetta" 설정하여 Rosetta 2 설치를 하면 되는 듯?
