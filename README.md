@@ -18,6 +18,9 @@
 
 ### 그 이후에 설치 가능한 것들
 
+Apple 에서 제공하는 공식 Git 바이너리를 XCode command-line tools 에서 한 차례 얻고, 이 후에 homebrew 로 git 을 설치하는 방식이 그나마 괜찮아 보임.
+
+* https://brew.sh
 * https://ohmyz.sh
 
 ### 공부중
