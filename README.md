@@ -28,6 +28,7 @@ Apple 에서 제공하는 공식 Git 바이너리를 XCode command-line tools �
 익숙해져야 할 거 같은데 아직 잘 모르는 도구들.
 
 * https://github.com/astral-sh/uv
+  * `uv python install 3.12.11` 후 `uv init` 하고 `uv add jupyter`, `uv run jupyter notebook` 하니 뭔가 익숙한 상황이 나오는 듯. 
 * https://github.com/abiosoft/colima
   * 개인용으로는 Orbstack 이 좀더 낫다고 하는데, Orbstack 을 쓸 경우 상업용으로는 라이센스 비용이 발생하는 듯.
 * Rosetta 2
